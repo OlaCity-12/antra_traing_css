@@ -1,0 +1,47 @@
+
+nav {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+    
+  }
+  
+  li {
+    float: left;
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 70px;
+  text-decoration: none;
+  
+  }
+
+.header {
+    padding: 4rem 12rem 6rem;
+    background-color: #c6bfbf;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 3rem;
+   font-weight: bolder;
+   padding-bottom: 24px;
+}
+
+.information {
+    padding-top: 3rem 12rem 20rem 30rem;
+    column-count: 3;
+    column-gap: 70px;
+   padding: 1rem 15rem;
+}
+
+footer {
+    list-style-type: none;
+   
+    overflow: hidden;
+    background-color: #0b4d14;
+}
+
+.media{
+    float: right;
+}
